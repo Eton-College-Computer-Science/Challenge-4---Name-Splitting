@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		B420077C2C997558004486DA /* Challenge 4 - Name Splitting */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Challenge 4 - Name Splitting"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B420077F2C997558004486DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B42007862C997565004486DA /* pseudocode.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = pseudocode.txt; sourceTree = "<group>"; };
+		B42007872C997571004486DA /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				B420077F2C997558004486DA /* main.swift */,
+				B42007862C997565004486DA /* pseudocode.txt */,
+				B42007872C997571004486DA /* readme.md */,
 			);
 			path = "Challenge 4 - Name Splitting";
 			sourceTree = "<group>";
